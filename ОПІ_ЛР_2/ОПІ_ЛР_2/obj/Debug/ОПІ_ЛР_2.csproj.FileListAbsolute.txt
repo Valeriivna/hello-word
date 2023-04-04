@@ -1,0 +1,10 @@
+D:\GIT\ОПІ_ЛР_2\ОПІ_ЛР_2\obj\Debug\ОПІ_ЛР_2.csproj.AssemblyReference.cache
+D:\GIT\ОПІ_ЛР_2\ОПІ_ЛР_2\obj\Debug\ОПІ_ЛР_2.Form1.resources
+D:\GIT\ОПІ_ЛР_2\ОПІ_ЛР_2\obj\Debug\ОПІ_ЛР_2.Properties.Resources.resources
+D:\GIT\ОПІ_ЛР_2\ОПІ_ЛР_2\obj\Debug\ОПІ_ЛР_2.csproj.GenerateResource.cache
+D:\GIT\ОПІ_ЛР_2\ОПІ_ЛР_2\obj\Debug\ОПІ_ЛР_2.csproj.CoreCompileInputs.cache
+D:\GIT\ОПІ_ЛР_2\ОПІ_ЛР_2\bin\Debug\ОПІ_ЛР_2.exe.config
+D:\GIT\ОПІ_ЛР_2\ОПІ_ЛР_2\bin\Debug\ОПІ_ЛР_2.exe
+D:\GIT\ОПІ_ЛР_2\ОПІ_ЛР_2\bin\Debug\ОПІ_ЛР_2.pdb
+D:\GIT\ОПІ_ЛР_2\ОПІ_ЛР_2\obj\Debug\ОПІ_ЛР_2.exe
+D:\GIT\ОПІ_ЛР_2\ОПІ_ЛР_2\obj\Debug\ОПІ_ЛР_2.pdb
